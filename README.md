@@ -1,8 +1,6 @@
 ### Hi Developers 👋
 
-<!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-ItsSaurabhSingh-red)] -->
 [![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)](https://www.linkedin.com/in/saurabh-singh-192613257/)
-<!-- [![Website Badge](https://img.shields.io/badge/Quora-Ankit-pink)](https://https://www.quora.com/profile/saurabh-14104) -->
 <a href="https://saurabhsingh457.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
 
@@ -16,7 +14,7 @@ Full Stack Solution Architect.
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), back-end development ( HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/saurabhsingh457/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sa/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -32,14 +30,10 @@ Languages and Tools:
 <img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh457&lans-count=4" alt="">
 <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh457&show_icons=true&locale=en" alt="">
 <img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsingh457&" alt="">
-<!--  <img alt="Heroku" src ="https://img.shields.io/badge/Heroku-%23478a4b.svg?style=flat-square&logo=heroku&logoColor=white"/>  -->
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=manoharmeena123&theme=react-dark&area=true) -->
-<!--  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>  -->
-<!--  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/> --> 
+
 
 
 <!--
-**saurabhsingh457/saurabhsingh457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
