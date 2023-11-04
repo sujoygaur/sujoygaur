@@ -1,6 +1,5 @@
 ### Hi Developers 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujoy-gaur-603762247/)]([https://www.linkedin.com/in/saurabh-singh-192613257/](https://www.linkedin.com/in/sujoy-gaur-603762247/))
+[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujoy-gaur-603762247/)](https://www.linkedin.com/in/sujoy-gaur-603762247/)
 <a href="https://sujoygaur.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
 
