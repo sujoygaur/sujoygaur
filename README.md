@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Saurabh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saurabh-singh-192613257/)](https://www.linkedin.com/in/saurabh-singh-192613257/)
-<a href="https://saurabhsingh457.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujoy-gaur-603762247/)]([https://www.linkedin.com/in/saurabh-singh-192613257/](https://www.linkedin.com/in/sujoy-gaur-603762247/))
+<a href="https://sujoygaur.github.io/" target="text-decoration:none"><img height="30" src="https://img.shields.io/badge/My%20Portfolio%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 
 
 
@@ -19,7 +19,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh457&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=sujoygaur&column=7"/>
   </a>
 </div>
 
@@ -27,9 +27,9 @@ Languages and Tools:
 
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23ED8B00.svg?style=flat-square&logo=javascript&logoColor=white"/> <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23238B00.svg?style=flat-square&logo=typescript&logoColor=white"/>  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/> <img alt="ExpressJS" src ="https://img.shields.io/badge/ExpressjS-%234e434b.svg?style=flat-square&logo=express&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="Netlify" src ="https://img.shields.io/badge/Netllify-%234eab.svg?style=flat-square&logo=netlify&logoColor=white"/>  <img alt="Python" src ="https://img.shields.io/badge/Python-%2834ea9.svg?style=flat-square&logo=python&logoColor=white"/>
 
-<img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhsingh457&lans-count=4" alt="">
-<img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=saurabhsingh457&show_icons=true&locale=en" alt="">
-<img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=saurabhsingh457&" alt="">
+<img  id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujoygaur&lans-count=4" alt="">
+<img id="github-stats-card" src="https://github-readme-stats.vercel.app/api?username=sujoygaur&show_icons=true&locale=en" alt="">
+<img  id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com?user=sujoygaur&" alt="">
 
 
 
